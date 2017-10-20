@@ -26,12 +26,12 @@ int main()
 	{
 		if(g==t)
 		{
-			cout << "That's really kinky. I think you should pick a different letter: ";
+			cout << "That's really weird. I think you should pick a different letter: ";
 			cin >> g;
 		}
 		else if(g==c)
 		{
-			cout << "You're most attracted to yourself? Get the fuck out of here, me too!\n\nSeriously though, pick a different letter: ";
+			cout << "You're most attracted to yourself? Get out of here, me too!\n\nSeriously though, pick a different letter: ";
 			cin >> g;
 		}
 	}

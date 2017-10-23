@@ -31,7 +31,7 @@ int main()
 		}
 		else if(g==c)
 		{
-			cout << "You're most attracted to yourself? Get out of here, me too!\n\nSeriously though, pick a different letter: ";
+			cout << "You're most attracted to yourself? Interesting!\n\nSeriously though, pick a different letter: ";
 			cin >> g;
 		}
 	}
